@@ -1,0 +1,3 @@
+gcc -o jogo Isabella_Rhauani.cpp -lallegro_primitives -lallegro_ttf -lallegro_font -lallegro_dialog -lallegro_image -lallegro_acodec -lallegro_audio -lallegro
+
+
